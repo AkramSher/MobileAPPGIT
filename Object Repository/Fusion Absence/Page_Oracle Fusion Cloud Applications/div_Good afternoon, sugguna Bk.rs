@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Good afternoon, sugguna Bk</name>
+   <tag></tag>
+   <elementGuidId>f95cb3ea-9d6c-4425-8b2d-8ce859e0a8d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pt1:atkfr1:0:grid:0:atkLayerHome']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>95156d84-ebda-43d0-84bb-71ed78bd49b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Good afternoon, sugguna Bk!</value>
+      <webElementGuid>170e1558-a5b6-4c39-bc2b-ffba4d40311c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:atkfr1:0:grid:0:atkLayerHome&quot;)/div[1]</value>
+      <webElementGuid>fd256a36-de38-4914-a62f-1f185daf11c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pt1:atkfr1:0:grid:0:atkLayerHome']/div</value>
+      <webElementGuid>b5488230-60dd-45ee-bcb7-2e54d89d270f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dismiss'])[1]/following::div[38]</value>
+      <webElementGuid>c3fe6cff-2219-4628-9474-1b499d94f7dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sugguna Bk'])[1]/following::div[38]</value>
+      <webElementGuid>f2980436-9984-4b3d-980d-ec720c9d85ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Actions'])[1]/preceding::div[13]</value>
+      <webElementGuid>d0e47bc7-f79a-4be6-af76-15b2ed2e7847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div/div/div/div</value>
+      <webElementGuid>00b9054c-5788-46c9-96e6-4036a777ef89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Good afternoon, sugguna Bk!' or . = 'Good afternoon, sugguna Bk!')]</value>
+      <webElementGuid>c2ca4586-2081-4b49-bb94-53ec14aefc72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Loading_svg-outline</name>
+   <tag></tag>
+   <elementGuidId>74602856-0be2-4617-89bc-635f34288344</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>41145ece-32f7-4bb3-99f9-d1d5cd6a1704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-outline</value>
+      <webElementGuid>ef7475c5-62c1-4a4f-9367-21d6baa37688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M25 25V10L14 3L3 10V25H25Z</value>
+      <webElementGuid>4e4cb0ee-9b76-46fe-9269-f68d5fac3ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pt1:_UIShome::icon&quot;)/g[4]/path[@class=&quot;svg-outline&quot;]</value>
+      <webElementGuid>3294e2a6-cc34-4675-8cfa-4869cf5f53a6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

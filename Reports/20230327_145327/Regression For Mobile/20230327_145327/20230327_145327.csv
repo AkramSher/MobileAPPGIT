@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Regression For Mobile,,,,2023-03-27 14:53:35,2023-03-27 14:53:38,3.547s,FAILED
+,,,,,,,
+Test Cases/Absence Submission,,,,2023-03-27 14:53:37,2023-03-27 14:53:37,0.070s,FAILED
+"startApplication(""C:\Users\191060\Downloads\com.ust.uandust (3).apk"", true)",,,,2023-03-27 14:53:37,2023-03-27 14:53:37,0.058s,FAILED
+,,,,,,,
+Test Cases/AbsenceBalance,,,,2023-03-27 14:53:38,2023-03-27 14:53:38,0.102s,FAILED
+"startApplication(""C:\Users\191060\Downloads\com.ust.uandust (3).apk"", true)",,,,2023-03-27 14:53:38,2023-03-27 14:53:38,0.088s,FAILED
+,,,,,,,
+Test Cases/Timesheet Approval,,,,2023-03-27 14:53:38,2023-03-27 14:53:38,0.073s,FAILED
+"startApplication(""C:\Users\191060\Downloads\com.ust.uandust (3).apk"", true)",,,,2023-03-27 14:53:38,2023-03-27 14:53:38,0.062s,FAILED
